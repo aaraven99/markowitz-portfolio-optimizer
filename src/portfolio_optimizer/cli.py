@@ -1,6 +1,8 @@
 import argparse
 import json
+
 import yfinance as yf
+
 from .optimizer import optimize, portfolio_stats
 
 

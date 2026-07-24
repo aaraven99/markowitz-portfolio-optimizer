@@ -1,5 +1,6 @@
 import numpy as np
 import pytest
+
 from portfolio_optimizer.optimizer import optimize, portfolio_stats
 
 

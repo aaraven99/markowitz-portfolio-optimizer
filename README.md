@@ -1,5 +1,7 @@
 # Markowitz Portfolio Optimizer
 
+[Live dashboard](https://markowitz-portfolio-optimizer.vercel.app)
+
 ![Generated constrained portfolio demonstration](assets/portfolio-preview.png)
 
 Constrained mean-variance allocation with explicit return, risk, and concentration assumptions.
